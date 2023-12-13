@@ -30,7 +30,7 @@ This Frontend is developed using React.js
 
 # Setup and Run Guide
 
-## Setup Project
+## Setup Project 
 
 ### Clone the Repository:
 ```
